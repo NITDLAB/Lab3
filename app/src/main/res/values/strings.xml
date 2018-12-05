@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="send">Send Message</string>
+    <string name="title_activity_receive_message">Recieve message Activity</string>
+</resources>
